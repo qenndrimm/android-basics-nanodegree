@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="submit_button">Submit</string>
+    <string name="question_one">What is the capital city of Kosova?</string>
+    <string name="question_two">What are some known Direct Subclasses of View?</string>
+    <string name="question_three">What is the independence day of Kosovo?</string>
+    <string name="question_four">What sports did Michael Jordan play?</string>
+    <string name="question_five">Do you know the person in the picture?</string>
+    <string name="analogclock">AnalogClock</string>
+    <string name="imageview">ImageView</string>
+    <string name="recognitionservice">RecognitionService</string>
+    <string name="progessbar">ProgessBar</string>
+    <string name="_2007">2007</string>
+    <string name="_2008">2008</string>
+    <string name="_2010">2010</string>
+    <string name="thierry_henry">Thierry Henry</string>
+    <string name="cristiano_ronaldo">Cristiano Ronaldo</string>
+    <string name="adriano">Adriano</string>
+    <string name="lionel_messi">Lionel Messi</string>
+    <string name="henry">Henry</string>
+    <string name="handball">Handball</string>
+    <string name="basketball">Basketball</string>
+    <string name="tenis">Tenis</string>
+    <string name="football">Football</string>
+    <string name="you_were_correct_on">You were correct on:</string>
+    <string name="answer_here">answer here...</string>
+</resources>

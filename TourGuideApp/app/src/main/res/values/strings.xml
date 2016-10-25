@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TourGuide App</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="public_places">Public Places</string>
+    <string name="events">Events</string>
+    <string name="hotels">Hotels</string>
+    <string name="title_activity_nav_drawer">nav_drawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_992f9211e83f54b2c6774edfb4733178084a527c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c17fd02aa423d1cc6466efea9faf169cfec2a2e7">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_97156d1230cb8484c73d796180585eced1a4e83d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f56f9d70c1d0b2b861bb99c9a24630dda895a966\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_cb00d15ba006df9e2e60c7e064825065bd7768d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_d3648092b7a76268d6c2a69c988739d153d16280\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_cf407af03615f11a6da0c9c7251afdb1c9962649\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5d6f88b3d3098c8e485ad7bc762e7d416fb69389">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6f96c262311223ab176382a0228a0cf1c4a54f17\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_1152c6422041318ec73e45e868837ea1e6d8b082\classes.dex" />
+    </item>
+
+</items>

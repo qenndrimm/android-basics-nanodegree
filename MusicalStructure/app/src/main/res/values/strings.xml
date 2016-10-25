@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="blues">Blues</string>
+    <string name="classical">Classical</string>
+    <string name="country">Country</string>
+    <string name="pop_rock">Pop/Rock</string>
+    <string name="back_to_categories">Back to Categories</string>
+    <string name="song_1">Song 1</string>
+    <string name="song_2">Song 2</string>
+    <string name="song_3">Song 3</string>
+    <string name="blues_category">Blues Category</string>
+    <string name="classical_category">Classical Category</string>
+    <string name="pop_rock_category">Pop/Rock Category</string>
+    <string name="country_category">Country Category</string>
+</resources>

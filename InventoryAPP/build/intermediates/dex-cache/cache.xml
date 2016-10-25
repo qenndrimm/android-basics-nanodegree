@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_b35a5a7432400a548db8f8c5c2ac865830b0e680\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_df62076c72fe3da5b6c28a48dbf3306afacb4de0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_0ed3a59e5cb47fc8b3d84d5afb1721bd255bd35f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_9b0b90f6b2d50f6d511b0f1d52656c2ab76b73f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0506acada12607af69a7a27ae824201469151a27">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_49ee0ff1b3faec7ac95ef8b7f5a3a59a3119bc3d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_87345631cf0345eb4c07d0937ffa921de7832c3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_cf407af03615f11a6da0c9c7251afdb1c9962649\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6abee7e7836ff44bed00592f907759b766174220">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5d5ea9a9c892a668e7115d0f1d8ec70b99b36f28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_c6f34a554976a62aeca914ca6dde55047a6ea5d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_79078f90acc78f98b480fdf25fdac9471dedf42c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qenndrimm\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\qenndrimm\AndroidStudioProjects\InventoryAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_abfcd65ba3955e1cec6acc4dffc089b7df761dd5\classes.dex" />
+    </item>
+
+</items>
